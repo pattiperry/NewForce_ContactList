@@ -1,0 +1,22 @@
+
+
+
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contact-card {
+    border: 1px solid black;
+    padding: 1em;
+    margin: 1em;
+    background-color: lightgrey;
+    width: 20vw;
+}
+
+h1 {
+    text-align: center;
+}
